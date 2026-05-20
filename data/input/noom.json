@@ -1,0 +1,83 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Noom Inc.",
+    "size": "Mid",
+    "type": "Private",
+    "location": "New York, NY",
+    "service": "Psychology-based digital weight management, behavior change, and GLP-1 medication support programs",
+    "consumer_base": "Adults seeking weight loss and behavior change support globally",
+    "partnership_rationale": "Noom's psychology-based behavior change platform and its emerging GLP-1 medication support program create research opportunities for UNC's behavioral health, obesity medicine, and digital health informatics programs, particularly in understanding long-term engagement and medication adherence in digital weight management.",
+    "primary_contact": "Noom Research and Clinical Evidence Team",
+    "contact_reasoning": "Noom has collaborated with academic researchers on behavioral health and weight management studies and has an active clinical research program with peer-reviewed publications."
+  },
+  "basic_info": {
+    "name_and_location": "Noom Inc., New York, NY",
+    "website_url": "noom.com",
+    "company_type": "Private",
+    "company_size": "Mid (approx. 2,500 employees)"
+  },
+  "company_type": {
+    "ipo": false,
+    "ticker": null,
+    "ipo_year": null
+  },
+  "company_size_bands": {
+    "category": "Mid",
+    "headcount": 2500
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Psychology-Based Behavior Change at Scale",
+      "detail": "Noom's platform uses cognitive behavioral therapy and motivational interviewing principles delivered digitally at scale, generating behavioral engagement data applicable to UNC's research on digital behavior change, health coaching, and psychological mechanisms of weight management."
+    },
+    {
+      "topic": "GLP-1 Medication Support Program",
+      "detail": "Noom has launched a GLP-1 companion program to support patients on semaglutide and tirzepatide with behavioral coaching and nutrition guidance, creating research opportunities at the intersection of pharmacotherapy and digital behavior change that align with UNC's obesity medicine programs."
+    },
+    {
+      "topic": "Large-Scale Real-World Weight Loss Data",
+      "detail": "Noom has published real-world outcomes data from millions of users demonstrating clinically meaningful weight loss, providing a research platform for studying predictors of digital program engagement and long-term weight maintenance."
+    },
+    {
+      "topic": "Personalization and Machine Learning",
+      "detail": "Noom uses ML algorithms to personalize coaching content, meal planning, and behavioral nudges based on individual user patterns \u2014 creating research opportunities in adaptive digital health intervention design."
+    },
+    {
+      "topic": "Mental Health and Eating Behavior",
+      "detail": "Noom's integration of stress, mood, and emotional eating tracking into its platform creates research opportunities at the intersection of mental health and weight management that align with UNC's behavioral medicine and eating disorders research programs."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Noom",
+      "year": 2025,
+      "title": "Noom Weight Management Program",
+      "url": "https://www.noom.com/"
+    },
+    {
+      "authors": "Noom",
+      "year": 2024,
+      "title": "Noom GLP-1 Companion Program",
+      "url": "https://www.noom.com/glp-1/"
+    },
+    {
+      "authors": "Chin, S.O., et al.",
+      "year": 2016,
+      "title": "Successful weight reduction and maintenance by using a smartphone application in those with overweight and obesity",
+      "journal": "Scientific Reports",
+      "doi": "10.1038/srep34563"
+    },
+    {
+      "authors": "Michaelides, A., et al.",
+      "year": 2021,
+      "title": "Engagement and weight loss: Analysis of the Noom Weight Loss Program",
+      "journal": "Journal of Medical Internet Research",
+      "doi": "10.2196/27093"
+    }
+  ]
+}

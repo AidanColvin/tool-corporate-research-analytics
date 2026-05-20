@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Salesforce Inc.",
+    "size": "Large",
+    "type": "Public",
+    "location": "San Francisco, CA",
+    "service": "CRM, cloud computing, AI-powered business applications, and health cloud platforms",
+    "consumer_base": "Enterprises globally across healthcare, life sciences, finance, and retail sectors",
+    "partnership_rationale": "Salesforce Health Cloud is a widely deployed patient relationship management platform in health systems and life sciences companies, and Salesforce Einstein AI is being embedded into clinical operations workflows \u2014 creating applied research opportunities for UNC's health informatics and clinical operations programs.",
+    "primary_contact": "Salesforce.org Academic Grants / Salesforce Trailhead Academic Alliances",
+    "contact_reasoning": "Salesforce.org provides technology grants and academic program support to universities, including access to Salesforce Health Cloud for academic research and curriculum development."
+  },
+  "basic_info": {
+    "name_and_location": "Salesforce Inc., San Francisco, CA",
+    "website_url": "salesforce.com/health",
+    "company_type": "Public",
+    "company_size": "Large (approx. 72,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: CRM",
+    "ipo_year": 2004
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 72000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "Salesforce.org has provided technology grants to academic institutions. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Salesforce Health Cloud for Patient Engagement",
+      "detail": "Salesforce Health Cloud is deployed by major health systems and life sciences companies for patient relationship management, care coordination, and outreach \u2014 creating research opportunities in patient engagement and care navigation that align with UNC's population health programs."
+    },
+    {
+      "topic": "Einstein AI in Life Sciences",
+      "detail": "Salesforce Einstein AI is being integrated into clinical operations, clinical trial recruitment, and pharmaceutical commercial workflows \u2014 providing UNC researchers a platform for studying AI-assisted clinical operations and trial efficiency."
+    },
+    {
+      "topic": "Salesforce.org Academic Technology Grants",
+      "detail": "Salesforce.org provides free or discounted software licenses to academic institutions, including Health Cloud, enabling UNC faculty and students to conduct applied research on the platform and develop health informatics curriculum."
+    },
+    {
+      "topic": "Clinical Trial and Life Sciences CRM",
+      "detail": "Salesforce's Life Sciences Cloud is used by major pharmaceutical companies for clinical trial site management and patient recruitment, creating an applied research environment for UNC students pursuing industry careers in clinical operations."
+    },
+    {
+      "topic": "Data Cloud and Health Analytics",
+      "detail": "Salesforce Data Cloud enables unified patient data profiles across health system touchpoints, creating research opportunities for UNC's informatics researchers in care coordination, patient journey analysis, and outcomes measurement."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Salesforce",
+      "year": 2025,
+      "title": "Salesforce Health Cloud",
+      "url": "https://www.salesforce.com/products/health-cloud/overview/"
+    },
+    {
+      "authors": "Salesforce",
+      "year": 2025,
+      "title": "Salesforce Life Sciences Cloud",
+      "url": "https://www.salesforce.com/solutions/industries/life-sciences/overview/"
+    },
+    {
+      "authors": "Salesforce.org",
+      "year": 2025,
+      "title": "Salesforce.org Academic Programs",
+      "url": "https://www.salesforce.org/edu/"
+    },
+    {
+      "authors": "Salesforce",
+      "year": 2025,
+      "title": "Salesforce Einstein AI",
+      "url": "https://www.salesforce.com/products/platform/einstein/"
+    }
+  ]
+}

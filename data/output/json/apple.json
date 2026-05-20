@@ -1,0 +1,88 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Apple Inc.",
+    "size": "Large",
+    "type": "Public",
+    "location": "Cupertino, CA",
+    "service": "Consumer electronics, software, and digital health platform development",
+    "consumer_base": "Global consumers, clinical researchers, and health system partners",
+    "multinational": true,
+    "partnership_rationale": "Apple's expansion into clinical-grade health monitoring through Apple Watch, HealthKit, ResearchKit, and the forthcoming Health+ AI coaching platform creates direct alignment with UNC's strengths in biomedical informatics, decentralized clinical trial infrastructure, and consumer health data research.",
+    "primary_contact": "Apple Scholars in AI/ML Program (nominated through UNC)",
+    "contact_reasoning": "Apple's PhD fellowship program operates through university nomination, making UNC's informatics faculty a direct pipeline to a formal Apple research relationship. UNC's fit with Apple's stated focus areas \u2014 AI for Health and Wellness, Privacy Preserving Machine Learning, and Human Centered AI \u2014 is strong."
+  },
+  "basic_info": {
+    "name_and_location": "Apple Inc., Cupertino, CA",
+    "website_url": "apple.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 150,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: AAPL",
+    "ipo_year": 1980
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 150000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Health+ AI Platform Launch",
+      "detail": "Apple is launching Health+ in 2026, an AI-powered subscription health coaching platform that integrates Apple Watch sensor data, HealthKit records, and clinical data to deliver personalized chronic disease management and wellness guidance."
+    },
+    {
+      "topic": "ResearchKit and Decentralized Trial Infrastructure",
+      "detail": "Apple's open-source ResearchKit framework has enabled academic medical centers to enroll tens of thousands of participants in mobile-first clinical studies on cardiovascular disease, diabetes, Parkinson's disease, and asthma. UNC Health's decentralized trial capabilities are a natural fit for ResearchKit-based study design."
+    },
+    {
+      "topic": "Privacy-Preserving Machine Learning",
+      "detail": "Apple's ML research program funds university partnerships explicitly in privacy-preserving ML and AI for Health and Wellness \u2014 two areas directly aligned with UNC's biomedical informatics research and IRB-governed health data infrastructure."
+    },
+    {
+      "topic": "Apple Scholars PhD Fellowship Pipeline",
+      "detail": "Apple's Scholars in AI/ML fellowship operates through university nomination and funds doctoral students in AI for Health, Human Centered AI, and Privacy Preserving ML. UNC's graduate programs in biomedical and health informatics are eligible and well-positioned to nominate candidates."
+    },
+    {
+      "topic": "Wearables Revenue and Health Data Scale",
+      "detail": "Apple's Wearables, Home, and Accessories segment generated $35.7 billion in FY2025 revenue. With hundreds of millions of Apple Watch units deployed globally, the scale of longitudinal health data accessible through HealthKit represents a research resource with no academic parallel."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Apple Inc.",
+      "year": 2026,
+      "title": "Apple Scholars in AI/ML Fellowship Program",
+      "url": "https://machinelearning.apple.com/work-with-us"
+    },
+    {
+      "authors": "Apple Inc.",
+      "year": 2026,
+      "title": "ResearchKit and CareKit",
+      "url": "https://www.apple.com/researchkit/"
+    },
+    {
+      "authors": "Apple Inc.",
+      "year": 2025,
+      "title": "Form 8-K: FY2025 Annual Results",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019325000077/a8-kex991q4202509272025.htm"
+    },
+    {
+      "authors": "Ratkowski, P.",
+      "year": 2025,
+      "title": "What You Can (and Can't) Do With Apple HealthKit Data",
+      "url": "https://www.themomentum.ai/blog/what-you-can-and-cant-do-with-apple-healthkit-data"
+    },
+    {
+      "authors": "Gadget Hacks",
+      "year": 2025,
+      "title": "Apple Health+ AI Coach Launches 2026 with Smart Features",
+      "url": "https://apple.gadgethacks.com/news/apple-health-ai-coach-launches-2026-revolutionary-features/"
+    }
+  ]
+}

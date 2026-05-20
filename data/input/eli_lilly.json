@@ -1,0 +1,75 @@
+{
+  "version": "2-1",
+  "overview": {
+    "company": "Eli Lilly and Company",
+    "size": "Large",
+    "type": "Public",
+    "location": "Indianapolis, IN",
+    "service": "Biopharmaceutical research, development, and manufacturing",
+    "consumer_base": "Global patients with chronic conditions",
+    "multinational": true,
+    "partnership_rationale": "Heavy investment in AI-driven drug discovery and clinical trial expansion aligns directly with UNC's strength in biomedical informatics and health data research.",
+    "primary_contact": "Markus Saba",
+    "contact_reasoning": "Retired Eli Lilly senior executive with deep institutional knowledge of Lilly's internal operations and existing academic credibility within UNC's health business ecosystem."
+  },
+  "basic_info": {
+    "name_and_location": "Eli Lilly and Company, Indianapolis, IN",
+    "website_url": "lilly.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 50,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: LLY",
+    "ipo_year": 1952
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 50000
+  },
+  "unc_connection": {
+    "unc_alum": {
+      "name": "Markus Saba",
+      "former_role": "Retired Eli Lilly Senior Executive",
+      "current_role": "Professor of the Practice of Marketing / Executive Director, Center for the Business of Health at UNC"
+    },
+    "donation_history": "Long history of philanthropic support in healthcare. Specific UNC donation history to be verified via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "AI-Driven Drug Discovery",
+      "detail": "Actively integrating generative AI for biologic design via 2026 collaboration with Chai Discovery and open-source Lilly TuneLab initiative, providing models trained on proprietary research data to academic partners."
+    },
+    {
+      "topic": "Informatics Research Synergy",
+      "detail": "UNC's biomedical informatics infrastructure, including the NC TraCS Institute, provides scalable data management and analytics platforms capable of supporting complex R&D workflows."
+    },
+    {
+      "topic": "Clinical Trial Infrastructure",
+      "detail": "UNC Health utilizes decentralized and hybrid trial models to improve patient access and trial recruitment efficiency, aligning with biopharmaceutical needs for faster study execution."
+    },
+    {
+      "topic": "Computational Biology Capabilities",
+      "detail": "UNC maintains advanced HPC resources and core facilities for processing large-scale genomic and proteomic datasets, essential for fast design-build-test-learn cycles."
+    },
+    {
+      "topic": "Talent Development",
+      "detail": "Eli Lilly maintains a formal internship and corporate hiring program focused on technical and data-driven roles, providing a direct pipeline for UNC data science and biomedical informatics graduates."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Chai Discovery & Eli Lilly Partnership",
+      "year": 2026,
+      "title": "AI Biologics Design",
+      "url": "https://intuitionlabs.ai/pdfs/ai-biologics-design-chai-discovery-eli-lilly-partnership.pdf"
+    },
+    {
+      "authors": "Desai, S., & Motoyama, Y.",
+      "year": 2015,
+      "title": "The Regional Environment in Indianapolis: Insights from High-Growth Companies",
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.2660938"
+    }
+  ]
+}

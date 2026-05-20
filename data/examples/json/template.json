@@ -1,0 +1,35 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "[COMPANY]",
+    "size": "[COMPANY SIZE]",
+    "type": "[COMPANY TYPE]",
+    "location": "[CITY]",
+    "service": "[SERVICE]",
+    "consumer_base": "[REGION/DEMOGRAPHY/CONSUMER BASE]",
+    "partnership_rationale": "[STRATEGIC ALIGNMENT RATIONALE]",
+    "primary_contact": "[HIGH RANK INDIVIDUAL]",
+    "contact_reasoning": "[REASONING]"
+  },
+  "basic_info": {
+    "name_and_location": null,
+    "website_url": null,
+    "company_type": null,
+    "company_size": null
+  },
+  "company_type": {
+    "ipo": null,
+    "ipo_year": null
+  },
+  "company_size_bands": {
+    "small": "0-100",
+    "mid": "100-749",
+    "large": "750+"
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": null
+  },
+  "talking_points": [],
+  "notes": "Quantify where possible. Do not use hypothetical benchmarks."
+}

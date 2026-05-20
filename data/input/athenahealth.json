@@ -1,0 +1,82 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "athenahealth",
+    "size": "Large",
+    "type": "Private",
+    "location": "Watertown, MA",
+    "service": "Cloud-based EHR, practice management, and population health management software for ambulatory care",
+    "consumer_base": "Over 160,000 physician practices and ambulatory care organizations across the US",
+    "partnership_rationale": "athenahealth's ambulatory EHR network covers over 160,000 physician practices and serves as one of the largest sources of outpatient clinical data in the US, creating research opportunities in primary care informatics, ambulatory AI, and population health management that complement UNC's community health and primary care research.",
+    "primary_contact": "athenahealth Research and Data Partnerships",
+    "contact_reasoning": "athenahealth has collaborated with academic researchers on ambulatory care data studies and population health research, with its network providing a unique window into outpatient clinical practice at scale."
+  },
+  "basic_info": {
+    "name_and_location": "athenahealth, Watertown, MA",
+    "website_url": "athenahealth.com",
+    "company_type": "Private",
+    "company_size": "Large (approx. 7,000 employees)"
+  },
+  "company_type": {
+    "ipo": false,
+    "ticker": null,
+    "ipo_year": null
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 7000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Ambulatory Care Data at Scale",
+      "detail": "athenahealth's network of 160,000+ physician practices generates one of the largest ambulatory clinical datasets in the US, spanning primary care, specialty, and behavioral health encounters \u2014 a research resource for UNC's outpatient informatics and population health work."
+    },
+    {
+      "topic": "Population Health and Care Gap Identification",
+      "detail": "athenahealth's population health tools identify care gaps and high-risk patients across its network, creating a research environment for studying preventive care intervention effectiveness and chronic disease management in ambulatory settings."
+    },
+    {
+      "topic": "Interoperability and FHIR Data Exchange",
+      "detail": "athenahealth has invested heavily in FHIR-based interoperability, enabling data exchange with hospital EHRs and public health registries \u2014 creating research opportunities in care coordination and cross-setting data integration at UNC."
+    },
+    {
+      "topic": "AI-Powered Clinical Documentation",
+      "detail": "athenahealth has integrated ambient AI documentation tools into its EHR platform, reducing physician documentation burden in ambulatory settings \u2014 a workflow intervention that UNC's primary care informatics researchers can evaluate for effectiveness."
+    },
+    {
+      "topic": "Rural and Community Practice Network",
+      "detail": "athenahealth's network includes many rural and community-based practices across North Carolina, providing a geographically proximate research environment for UNC's rural health and primary care access research programs."
+    }
+  ],
+  "references": [
+    {
+      "authors": "athenahealth",
+      "year": 2025,
+      "title": "athenahealth EHR and Population Health",
+      "url": "https://www.athenahealth.com/"
+    },
+    {
+      "authors": "athenahealth",
+      "year": 2024,
+      "title": "athenaOne EHR Platform",
+      "url": "https://www.athenahealth.com/ehr-system"
+    },
+    {
+      "authors": "athenahealth",
+      "year": 2024,
+      "title": "Population Health Management",
+      "url": "https://www.athenahealth.com/solutions/population-health"
+    },
+    {
+      "authors": "Friedberg, M.W., et al.",
+      "year": 2014,
+      "title": "Association Between Participation in a Multipayer Medical Home Intervention and Changes in Quality, Utilization, and Costs of Care",
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2014.4930"
+    }
+  ]
+}

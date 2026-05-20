@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Medtronic plc",
+    "size": "Large",
+    "type": "Public",
+    "location": "Dublin, Ireland (operational HQ: Fridley, MN)",
+    "service": "Medical devices, therapies, and health technology for cardiovascular, diabetes, neuromodulation, and surgical specialties",
+    "consumer_base": "Patients and health systems globally across 150+ countries",
+    "partnership_rationale": "Medtronic's AI-powered device platforms, diabetes management systems, and surgical robotics investments create research opportunities aligned with UNC's clinical informatics, biomedical engineering, and health outcomes research programs.",
+    "primary_contact": "Medtronic Academic Research and External Innovation Programs",
+    "contact_reasoning": "Medtronic has a formal external innovation and academic collaboration program, with a history of partnering with academic medical centers on clinical studies for device evaluation and outcomes research."
+  },
+  "basic_info": {
+    "name_and_location": "Medtronic plc, Dublin, Ireland / Fridley, MN",
+    "website_url": "medtronic.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 95,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: MDT",
+    "ipo_year": 1977
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 95000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "Medtronic Foundation has a history of grants in health equity and STEM education. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "AI-Enabled Medical Devices",
+      "detail": "Medtronic has integrated AI into endoscopy (GI Genius), cardiac monitoring, and surgical guidance systems, generating device-level clinical data streams that UNC's biomedical informatics researchers can study for algorithm validation and outcomes analysis."
+    },
+    {
+      "topic": "Diabetes Device Data and Closed-Loop Systems",
+      "detail": "Medtronic's MiniMed insulin pump and CGM systems generate continuous metabolic and insulin delivery data, supporting UNC research on automated insulin delivery outcomes and diabetes technology equity."
+    },
+    {
+      "topic": "Surgical Robotics and Digital Surgery",
+      "detail": "Medtronic's Hugo surgical robotics platform captures detailed intraoperative data that can be used to study surgical quality, learning curves, and outcome predictors \u2014 applicable to UNC's surgical outcomes research programs."
+    },
+    {
+      "topic": "Remote Monitoring and Cardiac Devices",
+      "detail": "Medtronic's cardiac implantable devices transmit remote monitoring data to clinicians continuously, creating a research environment for studying heart failure management, arrhythmia detection, and remote care effectiveness at UNC."
+    },
+    {
+      "topic": "Clinical Trial Partnership History",
+      "detail": "Medtronic conducts hundreds of active clinical trials globally and regularly partners with academic medical centers as trial sites. UNC Health's clinical research infrastructure positions it as a viable Medtronic trial site partner."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Medtronic",
+      "year": 2025,
+      "title": "Medtronic AI and Digital Health",
+      "url": "https://www.medtronic.com/en-us/healthcare-professionals/digital-health.html"
+    },
+    {
+      "authors": "Medtronic",
+      "year": 2025,
+      "title": "MiniMed Insulin Pump Systems",
+      "url": "https://www.medtronic.com/en-us/diabetes.html"
+    },
+    {
+      "authors": "Medtronic",
+      "year": 2025,
+      "title": "Hugo Surgical Robotics Platform",
+      "url": "https://www.medtronic.com/en-us/healthcare-professionals/therapies-procedures/surgical-robotics.html"
+    },
+    {
+      "authors": "Medtronic",
+      "year": 2025,
+      "title": "Medtronic FY2025 Annual Report",
+      "url": "https://investorrelations.medtronic.com/financial-information/annual-reports"
+    }
+  ]
+}

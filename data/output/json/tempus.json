@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Tempus AI Inc.",
+    "size": "Mid",
+    "type": "Public",
+    "location": "Chicago, IL",
+    "service": "AI-enabled precision medicine, genomic sequencing, and multimodal clinical data analytics for oncology and beyond",
+    "consumer_base": "Oncologists, health systems, life sciences companies, and patients undergoing precision medicine evaluation",
+    "partnership_rationale": "Tempus has built the world's largest library of multimodal clinical and molecular data \u2014 over 7 million patients with linked genomic, imaging, and clinical records \u2014 and its AI platform is directly focused on precision oncology problems that align with UNC's Lineberger Comprehensive Cancer Center research programs.",
+    "primary_contact": "Tempus Academic and Health System Partnerships",
+    "contact_reasoning": "Tempus has formal health system partnership agreements with major academic cancer centers for data sharing and co-development of precision medicine AI tools, with UNC Lineberger Comprehensive Cancer Center as a natural fit given its NCI designation and genomics research infrastructure."
+  },
+  "basic_info": {
+    "name_and_location": "Tempus AI Inc., Chicago, IL",
+    "website_url": "tempus.com",
+    "company_type": "Public",
+    "company_size": "Mid (approx. 3,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: TEM",
+    "ipo_year": 2024
+  },
+  "company_size_bands": {
+    "category": "Mid",
+    "headcount": 3000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "World's Largest Multimodal Clinical-Genomic Dataset",
+      "detail": "Tempus has assembled a linked dataset of over 7 million patients with genomic sequencing, clinical notes, imaging, and pathology data \u2014 one of the most comprehensive precision medicine research resources available to academic health system partners."
+    },
+    {
+      "topic": "Precision Oncology AI Platform",
+      "detail": "Tempus's AI platform provides oncologists with tumor mutational profiling, therapy matching, and clinical trial eligibility identification at the point of care \u2014 tools directly applicable to UNC Lineberger's precision oncology clinical programs."
+    },
+    {
+      "topic": "UNC Lineberger Cancer Center Alignment",
+      "detail": "UNC's NCI-designated Lineberger Comprehensive Cancer Center conducts genomic research across solid tumors and hematologic malignancies, making a Tempus data partnership directly applicable to accelerating cancer biomarker discovery and clinical AI validation at UNC."
+    },
+    {
+      "topic": "Radiology and Pathology AI",
+      "detail": "Tempus has developed AI models for digital pathology slide analysis and radiology image interpretation that can be validated at UNC Health's pathology and radiology departments through a formal partnership agreement."
+    },
+    {
+      "topic": "Real-World Oncology Evidence",
+      "detail": "Tempus's real-world data assets are used by pharmaceutical companies for companion diagnostic development and clinical trial cohort identification, creating opportunities for UNC researchers to collaborate on biomarker validation and drug development studies."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Tempus AI",
+      "year": 2025,
+      "title": "Tempus AI Precision Medicine Platform",
+      "url": "https://www.tempus.com/"
+    },
+    {
+      "authors": "Tempus AI",
+      "year": 2025,
+      "title": "Tempus Oncology Genomic Testing",
+      "url": "https://www.tempus.com/oncology/"
+    },
+    {
+      "authors": "Tempus AI",
+      "year": 2024,
+      "title": "Tempus AI S-1 Filing",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=tempus&type=S-1"
+    },
+    {
+      "authors": "Tempus AI",
+      "year": 2025,
+      "title": "Tempus AI Real-World Data for Life Sciences",
+      "url": "https://www.tempus.com/life-sciences/"
+    }
+  ]
+}

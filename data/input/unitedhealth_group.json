@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "UnitedHealth Group",
+    "size": "Large",
+    "type": "Public",
+    "location": "Minnetonka, MN",
+    "service": "Health insurance, pharmacy benefits, data analytics, and health IT services through Optum",
+    "consumer_base": "Over 150 million individuals across commercial, Medicare, and Medicaid plans in the US",
+    "partnership_rationale": "UnitedHealth Group's Optum division is the largest health services and analytics company in the US, with proprietary claims and clinical data assets spanning hundreds of millions of lives \u2014 creating unparalleled research partnership opportunities for UNC's population health and health equity programs.",
+    "primary_contact": "Optum Labs / UnitedHealth Group Academic Partnerships",
+    "contact_reasoning": "Optum Labs is UnitedHealth Group's formal academic research collaboration arm, partnering with universities on population health, health economics, and clinical AI research using Optum's real-world data assets."
+  },
+  "basic_info": {
+    "name_and_location": "UnitedHealth Group, Minnetonka, MN",
+    "website_url": "unitedhealthgroup.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 440,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: UNH",
+    "ipo_year": 1984
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 440000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "UnitedHealth Foundation has a history of grants supporting health equity and workforce development. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Optum Labs Real-World Data",
+      "detail": "Optum Labs maintains a linked claims and clinical database spanning over 200 million lives, which academic researchers can access for population health, health economics, and outcomes research \u2014 one of the largest commercial health datasets available to universities."
+    },
+    {
+      "topic": "Health Equity and Social Determinants Research",
+      "detail": "UnitedHealth Group has committed over $100 million to health equity initiatives and actively partners with academic institutions on research addressing social determinants of health \u2014 a core area of UNC's Gillings School of Global Public Health."
+    },
+    {
+      "topic": "Optum AI and Predictive Analytics",
+      "detail": "Optum's AI platform is deployed at scale for care gap identification, readmission prediction, and chronic disease risk stratification across its insurance and care delivery networks, creating applied research opportunities for UNC students."
+    },
+    {
+      "topic": "Internship and Talent Pipeline",
+      "detail": "Optum runs a formal internship program for data science, health informatics, and analytics roles, providing a direct pipeline for UNC's biomedical informatics graduates into one of the largest health analytics employers in the US."
+    },
+    {
+      "topic": "Value-Based Care Infrastructure",
+      "detail": "UnitedHealth Group operates Optum Care, one of the largest physician-aligned care organizations in the US, providing a real-world laboratory for studying value-based care model effectiveness that complements UNC's health systems research."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Optum",
+      "year": 2025,
+      "title": "Optum Labs \u2014 Academic Collaborations",
+      "url": "https://www.optum.com/business/insights/optum-labs.html"
+    },
+    {
+      "authors": "UnitedHealth Group",
+      "year": 2025,
+      "title": "Health Equity Commitments",
+      "url": "https://www.unitedhealthgroup.com/people/advancing-health-equity.html"
+    },
+    {
+      "authors": "Optum",
+      "year": 2025,
+      "title": "Optum Real World Data",
+      "url": "https://www.optum.com/business/solutions/life-sciences/real-world-evidence.html"
+    },
+    {
+      "authors": "UnitedHealth Group",
+      "year": 2025,
+      "title": "2025 Annual Report",
+      "url": "https://www.unitedhealthgroup.com/investors.html"
+    }
+  ]
+}

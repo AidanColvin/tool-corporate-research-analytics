@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "GE HealthCare Technologies Inc.",
+    "size": "Large",
+    "type": "Public",
+    "location": "Chicago, IL",
+    "service": "Medical imaging, ultrasound, patient care solutions, and pharmaceutical diagnostics",
+    "consumer_base": "Hospitals, imaging centers, and health systems across 160+ countries",
+    "partnership_rationale": "GE HealthCare's Edison AI platform, MRI and CT imaging systems, and precision diagnostics investments create research opportunities for UNC's medical imaging informatics, radiology AI, and precision medicine programs.",
+    "primary_contact": "GE HealthCare Academic and Research Partnerships",
+    "contact_reasoning": "GE HealthCare has a history of partnering with academic medical centers on imaging AI validation studies, clinical workflow research, and clinical trial sponsorship using its imaging systems and AI platform."
+  },
+  "basic_info": {
+    "name_and_location": "GE HealthCare Technologies Inc., Chicago, IL",
+    "website_url": "gehealthcare.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 51,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: GEHC",
+    "ipo_year": 2023
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 51000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Edison AI Platform for Imaging",
+      "detail": "GE HealthCare's Edison platform hosts over 30 FDA-cleared AI applications for radiology and cardiology, providing UNC's imaging departments with an AI-enabled environment for clinical AI validation and implementation research."
+    },
+    {
+      "topic": "MRI Innovation and Research",
+      "detail": "GE HealthCare's MRI systems, including the AIR Recon DL deep learning reconstruction platform, reduce scan times while improving image quality \u2014 a workflow innovation that UNC's radiology researchers can study for clinical impact."
+    },
+    {
+      "topic": "Precision Diagnostics and Molecular Imaging",
+      "detail": "GE HealthCare's pharmaceutical diagnostics division produces PET imaging agents including Alzheimer's amyloid tracers, creating research opportunities for UNC's neuroscience and aging research programs."
+    },
+    {
+      "topic": "Command Center for Hospital Operations",
+      "detail": "GE HealthCare's Command Center platform uses predictive analytics to optimize patient flow, bed management, and discharge planning \u2014 directly applicable to UNC Health's operational efficiency and patient throughput research."
+    },
+    {
+      "topic": "Global Research Collaboration Network",
+      "detail": "GE HealthCare partners with academic medical centers worldwide on imaging AI clinical trials, technology validation studies, and outcomes research, with UNC Health's imaging volume making it a viable collaboration site."
+    }
+  ],
+  "references": [
+    {
+      "authors": "GE HealthCare",
+      "year": 2025,
+      "title": "Edison AI Platform",
+      "url": "https://www.gehealthcare.com/products/digital-solutions/edison"
+    },
+    {
+      "authors": "GE HealthCare",
+      "year": 2025,
+      "title": "AIR Recon DL Deep Learning MRI Reconstruction",
+      "url": "https://www.gehealthcare.com/products/magnetic-resonance-imaging"
+    },
+    {
+      "authors": "GE HealthCare",
+      "year": 2025,
+      "title": "Command Center Hospital Operations",
+      "url": "https://www.gehealthcare.com/products/digital-solutions/command-center"
+    },
+    {
+      "authors": "GE HealthCare",
+      "year": 2025,
+      "title": "GE HealthCare 2024 Annual Report",
+      "url": "https://investors.gehealthcare.com/financial-information/annual-reports"
+    }
+  ]
+}

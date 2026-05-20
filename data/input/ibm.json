@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "IBM Corporation",
+    "size": "Large",
+    "type": "Public",
+    "location": "Armonk, NY",
+    "service": "Cloud computing, AI platforms, enterprise software, and consulting services",
+    "consumer_base": "Global enterprises, government agencies, and health systems across 175+ countries",
+    "partnership_rationale": "IBM's watsonx AI platform, extensive federal health contract portfolio, and longstanding academic research programs create partnership opportunities for UNC's health informatics and AI research programs, particularly in clinical NLP, health data governance, and federated AI.",
+    "primary_contact": "IBM Academic Initiative / IBM Research Health Informatics",
+    "contact_reasoning": "IBM Academic Initiative provides university researchers with access to IBM software, cloud resources, and technical collaboration, with IBM Research maintaining active health informatics and clinical AI research programs."
+  },
+  "basic_info": {
+    "name_and_location": "IBM Corporation, Armonk, NY",
+    "website_url": "ibm.com/healthcare",
+    "company_type": "Public",
+    "company_size": "Large (approx. 282,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: IBM",
+    "ipo_year": 1916
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 282000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "IBM has a history of academic research partnerships and grants. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "watsonx AI Platform for Health",
+      "detail": "IBM's watsonx platform provides foundation model access, AI governance tools, and enterprise AI deployment infrastructure \u2014 applicable to UNC's research on responsible health AI development, model explainability, and clinical AI governance."
+    },
+    {
+      "topic": "Federal Health Data Infrastructure",
+      "detail": "IBM holds significant contracts with CMS, FDA, and NIH for health data analytics and IT infrastructure, creating pathways for UNC researchers to engage with federal health data programs through IBM's government health division."
+    },
+    {
+      "topic": "Clinical NLP Research History",
+      "detail": "IBM Research has a long history of clinical NLP research, including the Medical Sieve radiology AI project and natural language processing for EHR data \u2014 research traditions that complement UNC's clinical text mining programs."
+    },
+    {
+      "topic": "IBM Academic Initiative",
+      "detail": "IBM Academic Initiative provides universities with access to IBM software platforms, cloud credits, and curriculum materials, enabling UNC faculty to integrate IBM tools into health informatics coursework and research."
+    },
+    {
+      "topic": "AI Governance and Responsible AI",
+      "detail": "IBM has invested in AI governance frameworks and fairness toolkits including AI Fairness 360 and the open-source toolkit ecosystem \u2014 directly applicable to UNC's research on health AI bias, equity, and regulatory compliance."
+    }
+  ],
+  "references": [
+    {
+      "authors": "IBM",
+      "year": 2025,
+      "title": "IBM watsonx AI Platform",
+      "url": "https://www.ibm.com/watsonx"
+    },
+    {
+      "authors": "IBM",
+      "year": 2025,
+      "title": "IBM Healthcare and Life Sciences",
+      "url": "https://www.ibm.com/industries/healthcare"
+    },
+    {
+      "authors": "IBM",
+      "year": 2025,
+      "title": "IBM Academic Initiative",
+      "url": "https://www.ibm.com/academic/"
+    },
+    {
+      "authors": "IBM Research",
+      "year": 2024,
+      "title": "AI Fairness 360 Open Source Toolkit",
+      "url": "https://aif360.res.ibm.com/"
+    }
+  ]
+}

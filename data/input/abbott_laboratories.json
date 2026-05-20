@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Abbott Laboratories",
+    "size": "Large",
+    "type": "Public",
+    "location": "North Chicago, IL",
+    "service": "Medical devices, diagnostics, nutrition, and established pharmaceuticals",
+    "consumer_base": "Patients, health systems, and clinical laboratories globally across 160+ countries",
+    "partnership_rationale": "Abbott's FreeStyle Libre CGM system is the world's most widely used continuous glucose monitor, and its diagnostics division powers point-of-care testing infrastructure globally \u2014 creating research opportunities in diabetes technology, diagnostic informatics, and remote patient monitoring aligned with UNC's chronic disease and clinical informatics research.",
+    "primary_contact": "Abbott Diagnostics / Abbott Diabetes Care Research Programs",
+    "contact_reasoning": "Abbott has partnered with academic institutions on CGM outcomes research and point-of-care diagnostic studies, providing a model for UNC partnership through its diabetes care and diagnostics divisions."
+  },
+  "basic_info": {
+    "name_and_location": "Abbott Laboratories, North Chicago, IL",
+    "website_url": "abbott.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 113,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: ABT",
+    "ipo_year": 1929
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 113000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "Abbott has a history of grants through its Foundation. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "FreeStyle Libre CGM Research Opportunities",
+      "detail": "Abbott's FreeStyle Libre is worn by over 6 million people globally and generates high-frequency glucose data that has been the subject of hundreds of peer-reviewed studies \u2014 providing a research platform accessible for UNC diabetes and metabolic health studies."
+    },
+    {
+      "topic": "Point-of-Care Diagnostics Infrastructure",
+      "detail": "Abbott's Alinity and ID NOW platforms power rapid diagnostic testing at over 100,000 care sites globally. UNC's clinical labs and emergency medicine programs can partner with Abbott on POC diagnostic accuracy and implementation research."
+    },
+    {
+      "topic": "Cardiac Diagnostics and Biomarkers",
+      "detail": "Abbott's cardiac biomarker platforms including high-sensitivity troponin are standard of care in UNC Health's emergency department, creating a research environment for studying early cardiac event detection and biomarker-guided clinical decision making."
+    },
+    {
+      "topic": "Lingo Consumer Metabolic Health",
+      "detail": "Abbott's Lingo consumer CGM platform extends glucose monitoring to non-diabetic wellness users, opening research questions in metabolic health, nutrition optimization, and preventive care that align with UNC's population health agenda."
+    },
+    {
+      "topic": "Global Diagnostics Access and Equity",
+      "detail": "Abbott operates diagnostic programs in low- and middle-income countries through its Foundation, creating international health research collaboration opportunities relevant to UNC's global health programs."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Abbott",
+      "year": 2025,
+      "title": "FreeStyle Libre Continuous Glucose Monitoring",
+      "url": "https://www.freestyle.abbott/us-en/home.html"
+    },
+    {
+      "authors": "Abbott",
+      "year": 2025,
+      "title": "Abbott Point of Care Diagnostics",
+      "url": "https://www.abbott.com/diagnostics.html"
+    },
+    {
+      "authors": "Abbott",
+      "year": 2024,
+      "title": "Lingo Metabolic Health System",
+      "url": "https://www.hellolingo.com/"
+    },
+    {
+      "authors": "Abbott",
+      "year": 2025,
+      "title": "Abbott 2024 Annual Report",
+      "url": "https://www.abbott.com/investors.html"
+    }
+  ]
+}

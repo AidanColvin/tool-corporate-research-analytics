@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "CVS Health Corporation",
+    "size": "Large",
+    "type": "Public",
+    "location": "Woonsocket, RI",
+    "service": "Pharmacy retail, pharmacy benefits management, health insurance, and primary care through MinuteClinic and Oak Street Health",
+    "consumer_base": "Over 35 million patients across pharmacy, insurance, and primary care channels in the US",
+    "partnership_rationale": "CVS Health's acquisition of Oak Street Health and Signify Health has positioned it as a vertically integrated care delivery company with rich longitudinal data across pharmacy, claims, and primary care \u2014 creating research partnerships relevant to UNC's population health, pharmacy informatics, and health equity programs.",
+    "primary_contact": "CVS Health Academic and Research Partnerships",
+    "contact_reasoning": "CVS Health's Aetna data assets and Oak Street Health's primary care network provide research data opportunities aligned with UNC's population health and health services research programs."
+  },
+  "basic_info": {
+    "name_and_location": "CVS Health Corporation, Woonsocket, RI",
+    "website_url": "cvshealth.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 300,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: CVS",
+    "ipo_year": 1996
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 300000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "CVS Health Foundation has a history of grants supporting pharmacy education and health equity. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Oak Street Health Primary Care Data",
+      "detail": "CVS Health's 2023 acquisition of Oak Street Health added over 160 primary care centers serving Medicare patients, creating a longitudinal primary care dataset spanning underserved populations that is highly relevant to UNC's health equity and aging research."
+    },
+    {
+      "topic": "Pharmacy Informatics at Scale",
+      "detail": "CVS fills over 2 billion prescriptions annually through its retail and PBM operations, generating one of the largest pharmacy utilization datasets in the US \u2014 directly applicable to medication adherence, drug interaction, and population pharmacy research at UNC's Eshelman School of Pharmacy."
+    },
+    {
+      "topic": "Aetna Claims and Insurance Data",
+      "detail": "CVS Health's Aetna subsidiary covers over 35 million members, providing linked claims, clinical, and pharmacy data assets that researchers can access for health economics and outcomes studies through formal data use agreements."
+    },
+    {
+      "topic": "MinuteClinic Retail Health Research",
+      "detail": "CVS's MinuteClinic network of over 1,100 locations provides a unique research setting for studying retail health utilization, urgent care substitution, and patient-initiated preventive care \u2014 topics aligned with UNC's primary care research programs."
+    },
+    {
+      "topic": "Health Equity and Access Initiatives",
+      "detail": "CVS Health has committed to expanding care access in health professional shortage areas through its retail footprint, creating community-based research opportunities aligned with UNC's rural health and underserved population programs."
+    }
+  ],
+  "references": [
+    {
+      "authors": "CVS Health",
+      "year": 2025,
+      "title": "CVS Health 2025 Annual Report",
+      "url": "https://investors.cvshealth.com/investors/financial-information/annual-reports"
+    },
+    {
+      "authors": "CVS Health",
+      "year": 2023,
+      "title": "CVS Health Completes Acquisition of Oak Street Health",
+      "url": "https://www.cvshealth.com/news/company-news/cvs-health-completes-acquisition-of-oak-street-health.html"
+    },
+    {
+      "authors": "CVS Health",
+      "year": 2025,
+      "title": "Aetna Health Insurance",
+      "url": "https://www.aetna.com/"
+    },
+    {
+      "authors": "CVS Health",
+      "year": 2024,
+      "title": "MinuteClinic",
+      "url": "https://www.cvs.com/minuteclinic/"
+    }
+  ]
+}

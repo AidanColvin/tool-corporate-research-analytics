@@ -1,0 +1,82 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Teladoc Health",
+    "size": "Large",
+    "type": "Public",
+    "location": "Purchase, NY",
+    "service": "Virtual care delivery, chronic disease management, and mental health services",
+    "consumer_base": "Over 90 million members across employer, health plan, and health system channels globally",
+    "partnership_rationale": "Teladoc Health is the world's largest virtual care provider, operating BetterHelp (mental health) and Livongo (chronic disease management) alongside its core telehealth platform \u2014 creating research opportunities in digital health engagement, chronic disease outcomes, and mental health services that align with UNC's behavioral health and population health programs.",
+    "primary_contact": "Teladoc Health Research and Outcomes Team",
+    "contact_reasoning": "Teladoc has published peer-reviewed outcomes research from its platform data and has collaborated with academic institutions on virtual care effectiveness studies, providing a model for UNC partnership."
+  },
+  "basic_info": {
+    "name_and_location": "Teladoc Health, Purchase, NY",
+    "website_url": "teladochealth.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 12,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: TDOC",
+    "ipo_year": 2015
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 12000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Virtual Care Outcomes Data at Scale",
+      "detail": "Teladoc serves over 90 million members and has generated longitudinal virtual visit data spanning primary care, mental health, and chronic disease management, providing a research dataset for studying telehealth effectiveness and utilization patterns."
+    },
+    {
+      "topic": "Livongo Chronic Disease Management",
+      "detail": "Teladoc's Livongo platform provides connected device and coaching interventions for diabetes, hypertension, and weight management, generating real-world data on digital chronic disease intervention outcomes aligned with UNC's chronic disease research programs."
+    },
+    {
+      "topic": "BetterHelp Mental Health at Scale",
+      "detail": "BetterHelp is the world's largest online mental health platform with over 30,000 therapists, creating research opportunities in digital mental health access, engagement, and outcomes that align with UNC's behavioral health and health equity research."
+    },
+    {
+      "topic": "Telehealth Access and Equity Research",
+      "detail": "Teladoc's footprint across rural and underserved populations creates natural research questions around telehealth as a mechanism for reducing geographic and socioeconomic health access disparities \u2014 a core focus of UNC's rural health programs."
+    },
+    {
+      "topic": "AI-Powered Care Navigation",
+      "detail": "Teladoc has invested in AI-driven care navigation and clinical decision support tools to route patients to appropriate care settings, creating applied research opportunities in intelligent triage and virtual care workflow optimization."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Teladoc Health",
+      "year": 2025,
+      "title": "Teladoc Health 2024 Annual Report",
+      "url": "https://ir.teladochealth.com/investors/financial-information/annual-reports"
+    },
+    {
+      "authors": "Teladoc Health",
+      "year": 2024,
+      "title": "Livongo Chronic Condition Management",
+      "url": "https://www.teladochealth.com/solutions/chronic-condition-management/"
+    },
+    {
+      "authors": "Teladoc Health",
+      "year": 2024,
+      "title": "BetterHelp",
+      "url": "https://www.betterhelp.com/"
+    },
+    {
+      "authors": "Barnett, M.L., et al.",
+      "year": 2023,
+      "title": "Telehealth and the Digital Divide",
+      "journal": "New England Journal of Medicine",
+      "doi": "10.1056/NEJMp2307280"
+    }
+  ]
+}

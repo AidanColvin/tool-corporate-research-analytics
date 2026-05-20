@@ -1,0 +1,82 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Garmin Ltd.",
+    "size": "Large",
+    "type": "Public",
+    "location": "Olathe, KS",
+    "service": "GPS technology, consumer fitness wearables, and health monitoring devices",
+    "consumer_base": "Fitness enthusiasts, athletes, and health-conscious consumers globally",
+    "partnership_rationale": "Garmin's wearable devices are widely used in academic research studies due to their research-grade sensor accuracy, open data access APIs, and high adoption among physically active populations \u2014 creating opportunities for UNC's exercise science, population health, and digital biomarker research programs.",
+    "primary_contact": "Garmin Health Enterprise Solutions / Garmin Research Partnerships",
+    "contact_reasoning": "Garmin Health offers an enterprise API platform specifically designed for clinical and research use, providing academic institutions with structured access to Garmin wearable data for IRB-approved studies."
+  },
+  "basic_info": {
+    "name_and_location": "Garmin Ltd., Olathe, KS",
+    "website_url": "garmin.com/en-US/health/",
+    "company_type": "Public",
+    "company_size": "Large (approx. 19,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: GRMN",
+    "ipo_year": 2000
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 19000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Garmin Health Enterprise API for Research",
+      "detail": "Garmin Health provides a structured enterprise API platform that gives academic researchers direct access to wearable sensor data including heart rate, HRV, sleep, stress, and activity metrics \u2014 one of the most researcher-accessible wearable data platforms available."
+    },
+    {
+      "topic": "Research-Grade Sensor Accuracy",
+      "detail": "Garmin devices are frequently validated in peer-reviewed research for accuracy in heart rate, VO2 max estimation, and sleep staging \u2014 making them a preferred wearable platform for academic studies requiring validated physiological measurement."
+    },
+    {
+      "topic": "Exercise and Physical Activity Research",
+      "detail": "Garmin's dominant market position among fitness and athletic populations creates a research resource for studying physical activity, athletic performance, recovery, and chronic disease prevention aligned with UNC's exercise science and physical activity epidemiology programs."
+    },
+    {
+      "topic": "All-Day Health Monitoring",
+      "detail": "Garmin's 24/7 physiological monitoring including pulse oximetry, HRV, body battery, and respiration rate creates longitudinal data streams applicable to UNC research on sleep, stress, and cardiometabolic health monitoring."
+    },
+    {
+      "topic": "Population Health and Workforce Wellness",
+      "detail": "Garmin Health has partnered with employers and health plans on workforce wellness programs, creating a research environment for studying wearable-based workplace health promotion that aligns with UNC's occupational health research programs."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Garmin",
+      "year": 2025,
+      "title": "Garmin Health Enterprise Solutions",
+      "url": "https://www.garmin.com/en-US/health/enterprise/"
+    },
+    {
+      "authors": "Garmin",
+      "year": 2025,
+      "title": "Garmin Health API Documentation",
+      "url": "https://developer.garmin.com/health-api/overview/"
+    },
+    {
+      "authors": "Garmin",
+      "year": 2025,
+      "title": "Garmin 2024 Annual Report",
+      "url": "https://investors.garmin.com/financial-information/annual-reports"
+    },
+    {
+      "authors": "Benedetto, S., et al.",
+      "year": 2018,
+      "title": "Accuracy of Wrist-Worn Heart Rate Monitors",
+      "journal": "European Journal of Preventive Cardiology",
+      "doi": "10.1177/2047487318784044"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Siemens Healthineers AG",
+    "size": "Large",
+    "type": "Public",
+    "location": "Erlangen, Germany",
+    "service": "Medical imaging, laboratory diagnostics, point-of-care testing, and digital health solutions",
+    "consumer_base": "Hospitals, health systems, and clinical laboratories across 70+ countries",
+    "partnership_rationale": "Siemens Healthineers operates the AI-Rad Companion platform for radiology AI, the largest medical imaging portfolio in the world, and a broad diagnostics infrastructure \u2014 creating research partnerships for UNC's medical imaging informatics, radiology AI, and clinical laboratory research programs.",
+    "primary_contact": "Siemens Healthineers Academic Collaboration Program",
+    "contact_reasoning": "Siemens Healthineers has a formal academic collaboration program and has partnered with university medical centers on imaging AI validation, workflow research, and diagnostic technology assessment studies."
+  },
+  "basic_info": {
+    "name_and_location": "Siemens Healthineers AG, Erlangen, Germany",
+    "website_url": "siemens-healthineers.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 72,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "XETRA: SHL",
+    "ipo_year": 2018
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 72000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "AI-Rad Companion Radiology AI",
+      "detail": "Siemens Healthineers' AI-Rad Companion platform provides FDA-cleared AI algorithms for chest CT, brain MRI, and cardiovascular imaging analysis \u2014 directly applicable to UNC's radiology department for clinical AI validation and workflow research."
+    },
+    {
+      "topic": "Medical Imaging Data for Research",
+      "detail": "Siemens Healthineers equipment generates imaging data across MRI, CT, PET, and ultrasound modalities at UNC Health and thousands of other institutions, providing a data foundation for imaging AI research collaborations."
+    },
+    {
+      "topic": "Digital Twin and Precision Cardiology",
+      "detail": "Siemens Healthineers has invested in digital twin technology for cardiac simulation and procedure planning, creating research opportunities in computational cardiology and AI-guided intervention planning aligned with UNC's cardiovascular research programs."
+    },
+    {
+      "topic": "Laboratory Diagnostics Automation",
+      "detail": "Siemens Healthineers' Atellica diagnostics platform automates high-throughput laboratory testing, generating structured diagnostic data at scale that UNC clinical pathology researchers can use for laboratory informatics studies."
+    },
+    {
+      "topic": "Global Research Collaboration Network",
+      "detail": "Siemens Healthineers maintains a global network of academic research partnerships and has co-authored peer-reviewed research with academic medical centers on imaging AI, diagnostics, and clinical workflow optimization."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Siemens Healthineers",
+      "year": 2025,
+      "title": "AI-Rad Companion \u2014 Radiology AI",
+      "url": "https://www.siemens-healthineers.com/digital-health-solutions/digital-solutions-overview/clinical-decision-support/ai-rad-companion"
+    },
+    {
+      "authors": "Siemens Healthineers",
+      "year": 2025,
+      "title": "Atellica Laboratory Diagnostics",
+      "url": "https://www.siemens-healthineers.com/laboratory-diagnostics/atellica-solution"
+    },
+    {
+      "authors": "Siemens Healthineers",
+      "year": 2025,
+      "title": "Siemens Healthineers Annual Report 2024",
+      "url": "https://www.siemens-healthineers.com/investor-relations/annual-report"
+    },
+    {
+      "authors": "Siemens Healthineers",
+      "year": 2024,
+      "title": "Digital Twin Technology in Cardiology",
+      "url": "https://www.siemens-healthineers.com/cardiovascular/digital-heart"
+    }
+  ]
+}

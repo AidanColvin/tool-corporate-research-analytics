@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Amazon (AWS Health / Amazon Clinic)",
+    "size": "Large",
+    "type": "Public",
+    "location": "Seattle, WA",
+    "service": "Cloud computing, e-commerce, digital health services, and AI platform development",
+    "consumer_base": "Global enterprises, health systems, researchers, and direct-to-consumer health patients",
+    "partnership_rationale": "AWS HealthLake, Amazon Comprehend Medical, and Amazon Clinic position Amazon as a major health data infrastructure and consumer health player, creating partnership opportunities with UNC's informatics and public health research programs.",
+    "primary_contact": "AWS Research Credits Program / AWS Healthcare and Life Sciences team",
+    "contact_reasoning": "Amazon provides academic research credits through AWS Research Credits and has a dedicated Healthcare and Life Sciences division that partners with academic medical centers on data infrastructure projects."
+  },
+  "basic_info": {
+    "name_and_location": "Amazon.com Inc., Seattle, WA",
+    "website_url": "aws.amazon.com/health",
+    "company_type": "Public",
+    "company_size": "Large (approx. 1,500,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: AMZN",
+    "ipo_year": 1997
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 1500000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "Amazon has provided AWS research credits to academic institutions. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "AWS HealthLake",
+      "detail": "AWS HealthLake is a FHIR-compliant data lake service that enables health systems to store, query, and run ML models on large-scale patient data \u2014 directly applicable to UNC Health's research data infrastructure needs."
+    },
+    {
+      "topic": "Amazon Comprehend Medical",
+      "detail": "Amazon Comprehend Medical is a clinical NLP service that extracts structured data from unstructured clinical notes, lab reports, and medical records \u2014 a tool highly relevant to UNC's clinical informatics and NLP research pipelines."
+    },
+    {
+      "topic": "Amazon Clinic Consumer Health",
+      "detail": "Amazon Clinic provides direct-to-consumer telehealth and prescription services, generating longitudinal consumer health data and creating research questions around digital health access and equity that align with UNC's public health focus."
+    },
+    {
+      "topic": "AWS Research Credits",
+      "detail": "AWS offers academic research credits that provide UNC researchers with access to scalable cloud compute for health AI model training, genomics pipelines, and large-scale population health analysis."
+    },
+    {
+      "topic": "Alexa Health Skills and Ambient Computing",
+      "detail": "Amazon's investment in voice-based health monitoring through Alexa Health Skills creates research opportunities around ambient home health sensing and chronic disease management that complement UNC's patient-centered informatics work."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Amazon Web Services",
+      "year": 2025,
+      "title": "AWS HealthLake",
+      "url": "https://aws.amazon.com/healthlake/"
+    },
+    {
+      "authors": "Amazon Web Services",
+      "year": 2025,
+      "title": "Amazon Comprehend Medical",
+      "url": "https://aws.amazon.com/comprehend/medical/"
+    },
+    {
+      "authors": "Amazon",
+      "year": 2024,
+      "title": "Amazon Clinic",
+      "url": "https://clinic.amazon.com/"
+    },
+    {
+      "authors": "Amazon Web Services",
+      "year": 2025,
+      "title": "AWS Research Credits Program",
+      "url": "https://aws.amazon.com/government-education/research-and-technical-computing/research-credits/"
+    }
+  ]
+}

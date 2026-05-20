@@ -1,0 +1,82 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Omada Health",
+    "size": "Mid",
+    "type": "Private",
+    "location": "San Francisco, CA",
+    "service": "Virtual chronic disease prevention and management programs for diabetes, hypertension, and musculoskeletal conditions",
+    "consumer_base": "Employer health plan members and Medicare Advantage participants across the US",
+    "partnership_rationale": "Omada Health is a CDC-recognized digital diabetes prevention program provider with peer-reviewed clinical evidence and an active research agenda, creating partnership opportunities with UNC's behavioral health, chronic disease prevention, and digital health informatics programs.",
+    "primary_contact": "Omada Health Clinical Research Team",
+    "contact_reasoning": "Omada publishes peer-reviewed outcomes research and has collaborated with academic institutions on clinical studies evaluating its digital behavior change programs, providing a model for UNC partnership."
+  },
+  "basic_info": {
+    "name_and_location": "Omada Health, San Francisco, CA",
+    "website_url": "omadahealth.com",
+    "company_type": "Private",
+    "company_size": "Mid (approx. 600 employees)"
+  },
+  "company_type": {
+    "ipo": false,
+    "ticker": null,
+    "ipo_year": null
+  },
+  "company_size_bands": {
+    "category": "Mid",
+    "headcount": 600
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "CDC-Recognized Diabetes Prevention Program",
+      "detail": "Omada's digital diabetes prevention program is fully recognized by the CDC's National DPP framework and covered by Medicare, providing an evidence-based digital intervention platform that UNC's prevention research programs can study for implementation and scalability."
+    },
+    {
+      "topic": "Peer-Reviewed Clinical Evidence Base",
+      "detail": "Omada has published multiple peer-reviewed studies demonstrating significant weight loss and HbA1c reduction outcomes in its enrolled populations, establishing clinical credibility that supports academic research collaboration."
+    },
+    {
+      "topic": "Behavior Change and Engagement Data",
+      "detail": "Omada's platform generates longitudinal engagement, biometric, and behavioral data across enrolled members, creating a research resource for UNC's digital health engagement, health coaching, and behavior change informatics research."
+    },
+    {
+      "topic": "Hypertension and MSK Expansion",
+      "detail": "Omada has expanded beyond diabetes prevention into hypertension management and musculoskeletal care, creating research opportunities across a broader chronic disease portfolio aligned with UNC's multi-condition chronic disease research programs."
+    },
+    {
+      "topic": "Health Equity in Digital Prevention",
+      "detail": "Omada has studied disparities in digital chronic disease program engagement across racial and socioeconomic groups, creating a research agenda on equitable digital health program design that aligns with UNC's health equity priorities."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Omada Health",
+      "year": 2025,
+      "title": "Omada Health Clinical Evidence",
+      "url": "https://www.omadahealth.com/evidence"
+    },
+    {
+      "authors": "Philis-Tsimikas, A., et al.",
+      "year": 2019,
+      "title": "Effect of a Digital Health Diabetes Prevention Program on Weight Loss",
+      "journal": "JMIR Diabetes",
+      "doi": "10.2196/12708"
+    },
+    {
+      "authors": "Omada Health",
+      "year": 2025,
+      "title": "Omada Diabetes Prevention Program (DPP)",
+      "url": "https://www.omadahealth.com/programs/diabetes-prevention"
+    },
+    {
+      "authors": "CDC",
+      "year": 2025,
+      "title": "National Diabetes Prevention Program",
+      "url": "https://www.cdc.gov/diabetes/prevention/"
+    }
+  ]
+}

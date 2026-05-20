@@ -1,0 +1,82 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Dexcom Inc.",
+    "size": "Large",
+    "type": "Public",
+    "location": "San Diego, CA",
+    "service": "Continuous glucose monitoring devices and digital diabetes management platforms",
+    "consumer_base": "People with diabetes globally, including Type 1 and Type 2 patients across consumer and clinical channels",
+    "partnership_rationale": "Dexcom's continuous glucose monitoring technology generates dense longitudinal physiological data at the individual level, creating research opportunities in diabetes management, metabolic health AI, and remote patient monitoring that directly align with UNC's chronic disease and biomedical informatics research.",
+    "primary_contact": "Dexcom Academic Research Programs",
+    "contact_reasoning": "Dexcom has a history of academic research collaborations using CGM data for diabetes outcomes research and has provided device access to university research programs."
+  },
+  "basic_info": {
+    "name_and_location": "Dexcom Inc., San Diego, CA",
+    "website_url": "dexcom.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 10,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: DXCM",
+    "ipo_year": 2005
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 10000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Continuous Glucose Monitoring Data for Research",
+      "detail": "Dexcom CGM devices capture glucose readings every 5 minutes, generating over 288 data points per day per patient. This density of longitudinal physiological data is a significant resource for ML-based diabetes management research at UNC."
+    },
+    {
+      "topic": "Dexcom ONE+ Consumer CGM Expansion",
+      "detail": "Dexcom's expansion into over-the-counter CGM with Dexcom ONE+ and Stelo opens access to metabolic data for non-diabetic populations, creating new research opportunities in metabolic health, nutrition, and preventive care."
+    },
+    {
+      "topic": "Remote Patient Monitoring Integration",
+      "detail": "Dexcom CGM integrates with major EHR platforms including Epic, enabling remote patient monitoring workflows that UNC Health can study for effectiveness in reducing diabetes-related hospitalizations and emergency department visits."
+    },
+    {
+      "topic": "Closed-Loop Insulin Delivery Research",
+      "detail": "Dexcom's CGM is a core component of automated insulin delivery systems being studied in clinical trials globally. UNC's clinical research infrastructure is well-positioned to participate in AID system outcome studies."
+    },
+    {
+      "topic": "Health Equity in Diabetes Technology Access",
+      "detail": "CGM adoption remains unequal across racial and socioeconomic groups despite evidence of effectiveness. UNC's focus on health equity in chronic disease management creates a natural research agenda around CGM access disparities."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Dexcom",
+      "year": 2025,
+      "title": "Dexcom CGM Technology",
+      "url": "https://www.dexcom.com/"
+    },
+    {
+      "authors": "Dexcom",
+      "year": 2024,
+      "title": "Dexcom Stelo \u2014 OTC CGM",
+      "url": "https://www.dexcom.com/en-us/stelo"
+    },
+    {
+      "authors": "Dexcom",
+      "year": 2025,
+      "title": "Dexcom 2024 Annual Report",
+      "url": "https://ir.dexcom.com/financial-information/annual-reports"
+    },
+    {
+      "authors": "Beck, R.W., et al.",
+      "year": 2017,
+      "title": "Continuous Glucose Monitoring Versus Usual Care in Patients with Type 2 Diabetes",
+      "journal": "Annals of Internal Medicine",
+      "doi": "10.7326/M16-2855"
+    }
+  ]
+}

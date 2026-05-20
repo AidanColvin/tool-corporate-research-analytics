@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Microsoft Corporation",
+    "size": "Large",
+    "type": "Public",
+    "location": "Redmond, WA",
+    "service": "Cloud computing, AI platforms, enterprise software, and health data infrastructure",
+    "consumer_base": "Global enterprises, health systems, researchers, and government agencies",
+    "partnership_rationale": "Microsoft's Azure Health Data Services, Nuance DAX clinical documentation AI, and the Microsoft Research Health Futures lab create direct alignment with UNC's clinical informatics, NLP, and health AI research programs.",
+    "primary_contact": "Microsoft Research Health Futures / Azure for Research Program",
+    "contact_reasoning": "Microsoft funds academic research through Azure for Research cloud grants and Microsoft Research collaborations, with an active Health Futures division focused on the same clinical AI problems UNC researchers work on."
+  },
+  "basic_info": {
+    "name_and_location": "Microsoft Corporation, Redmond, WA",
+    "website_url": "microsoft.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 228,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: MSFT",
+    "ipo_year": 1986
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 228000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "Microsoft has provided research grants and Azure cloud credits to academic institutions. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Nuance DAX Clinical Documentation AI",
+      "detail": "Microsoft's Nuance Dragon Ambient eXperience (DAX) automates clinical note generation using ambient AI during patient encounters, reducing physician documentation burden \u2014 a workflow problem UNC's informatics researchers actively study."
+    },
+    {
+      "topic": "Azure Health Data Services",
+      "detail": "Azure Health Data Services provides FHIR-compliant cloud infrastructure for health data aggregation, de-identification, and analytics \u2014 directly compatible with UNC Health's data architecture and research compliance requirements."
+    },
+    {
+      "topic": "Microsoft Research Health Futures",
+      "detail": "Microsoft Research's Health Futures lab conducts applied research in clinical NLP, genomics, and multimodal health AI, and actively seeks academic collaborators from institutions with strong biomedical informatics programs."
+    },
+    {
+      "topic": "Azure for Research Grants",
+      "detail": "Microsoft's Azure for Research program provides cloud computing credits and technical support to academic researchers, lowering the infrastructure barrier for large-scale health data science projects at UNC."
+    },
+    {
+      "topic": "Epic EHR Integration",
+      "detail": "Microsoft and Epic have a deep technical partnership integrating Azure AI into Epic workflows. Given UNC Health's Epic deployment, this positions Microsoft as a natural collaborator for AI-augmented clinical decision support research."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Microsoft Research",
+      "year": 2025,
+      "title": "Health Futures \u2014 Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/theme/health-and-life-sciences/"
+    },
+    {
+      "authors": "Microsoft",
+      "year": 2025,
+      "title": "Azure Health Data Services documentation",
+      "url": "https://learn.microsoft.com/en-us/azure/healthcare-apis/"
+    },
+    {
+      "authors": "Nuance / Microsoft",
+      "year": 2024,
+      "title": "DAX Copilot: Ambient Clinical Documentation",
+      "url": "https://www.nuance.com/healthcare/ambient-clinical-intelligence.html"
+    },
+    {
+      "authors": "Microsoft",
+      "year": 2025,
+      "title": "Azure for Research Program",
+      "url": "https://www.microsoft.com/en-us/research/academic-programs/"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Alphabet Inc. (Google Health)",
+    "size": "Large",
+    "type": "Public",
+    "location": "Mountain View, CA",
+    "service": "Search, cloud computing, AI research, and digital health platform development",
+    "consumer_base": "Global users, health systems, clinical researchers, and life sciences partners",
+    "partnership_rationale": "Google Health and DeepMind's investments in clinical NLP, medical imaging AI, and federated learning directly align with UNC's biomedical informatics and health data science research. Google's Academic Research program and Cloud for Healthcare APIs offer structured pathways for university collaboration.",
+    "primary_contact": "Google Academic Research Grants Program",
+    "contact_reasoning": "Google funds academic research through grants and cloud credits programs, with explicit focus areas in health AI and data science that match UNC's graduate research portfolio."
+  },
+  "basic_info": {
+    "name_and_location": "Alphabet Inc., Mountain View, CA",
+    "website_url": "google.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 182,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NASDAQ: GOOGL",
+    "ipo_year": 2004
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 182000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "Google has a history of research grants to academic institutions. Verify specific UNC history via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Med-PaLM 2 and Clinical NLP",
+      "detail": "Google DeepMind's Med-PaLM 2 achieved expert-level performance on US Medical Licensing Exam questions and is being evaluated for clinical summarization and documentation tasks \u2014 directly applicable to UNC's clinical NLP research."
+    },
+    {
+      "topic": "Google Cloud Healthcare API",
+      "detail": "Google Cloud's Healthcare API supports FHIR, DICOM, and HL7v2 data ingestion at scale, providing a platform compatible with UNC Health's EHR infrastructure for research data pipelines."
+    },
+    {
+      "topic": "Federated Learning Research",
+      "detail": "Google pioneered federated learning for privacy-preserving model training across distributed health datasets \u2014 a method highly relevant to UNC's multi-site clinical research collaborations where data cannot be centralized."
+    },
+    {
+      "topic": "Academic Research Grants",
+      "detail": "Google funds university research through the Google Academic Research program, providing cloud credits, direct grants, and PhD fellowship support in AI, health informatics, and data science."
+    },
+    {
+      "topic": "Fitbit Health Data Integration",
+      "detail": "Following its acquisition of Fitbit, Alphabet manages one of the world's largest longitudinal wearable health datasets, creating opportunities for academic research partnerships on population health monitoring."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Google DeepMind",
+      "year": 2023,
+      "title": "Large language models encode clinical knowledge",
+      "url": "https://www.nature.com/articles/s41586-023-06291-2"
+    },
+    {
+      "authors": "Google Cloud",
+      "year": 2025,
+      "title": "Healthcare and Life Sciences on Google Cloud",
+      "url": "https://cloud.google.com/solutions/healthcare-life-sciences"
+    },
+    {
+      "authors": "McMahan, B., et al.",
+      "year": 2017,
+      "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "url": "https://proceedings.mlr.press/v54/mcmahan17a.html"
+    },
+    {
+      "authors": "Google",
+      "year": 2025,
+      "title": "Google Academic Research Grants",
+      "url": "https://research.google/programs-and-events/research-scholar-program/"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Epic Systems Corporation",
+    "size": "Large",
+    "type": "Private",
+    "location": "Verona, WI",
+    "service": "Electronic health record software and health data interoperability platforms",
+    "consumer_base": "Academic medical centers, community hospitals, and integrated health systems across the US",
+    "partnership_rationale": "Epic is the EHR platform used by UNC Health, making it the most operationally proximate technology partner available. Epic's Cosmos federated research network, App Orchard developer ecosystem, and academic research programs create direct channels for UNC informatics faculty and students.",
+    "primary_contact": "Epic App Orchard / Epic Research (Cosmos network)",
+    "contact_reasoning": "Epic's Cosmos network connects de-identified EHR data from over 260 million patients across Epic-using health systems including UNC Health. UNC faculty with Epic research access are the most direct pathway to formalizing this relationship."
+  },
+  "basic_info": {
+    "name_and_location": "Epic Systems Corporation, Verona, WI",
+    "website_url": "epic.com",
+    "company_type": "Private",
+    "company_size": "Large (approx. 13,000 employees)"
+  },
+  "company_type": {
+    "ipo": false,
+    "ticker": null,
+    "ipo_year": null
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 13000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "UNC Health is an active Epic customer. Epic has sponsored academic research initiatives at Epic-using institutions. Verify specific partnership history via UNC Health IT."
+  },
+  "talking_points": [
+    {
+      "topic": "Epic Cosmos Federated Research Network",
+      "detail": "Epic's Cosmos network aggregates de-identified EHR data from over 260 million patients across Epic-deployed health systems, enabling federated research studies that UNC faculty can access through UNC Health's Epic instance."
+    },
+    {
+      "topic": "UNC Health Epic Deployment",
+      "detail": "UNC Health runs Epic as its primary EHR platform, giving UNC informatics researchers direct access to a production clinical data environment for building and evaluating AI-assisted clinical decision support tools."
+    },
+    {
+      "topic": "App Orchard Developer Ecosystem",
+      "detail": "Epic's App Orchard marketplace allows academic developers to build and deploy clinical applications directly into the Epic workflow, creating a pipeline for UNC-developed health AI tools to reach real clinical use."
+    },
+    {
+      "topic": "FHIR API and Interoperability",
+      "detail": "Epic's robust FHIR R4 API implementation enables standardized data access for research applications, supporting UNC's biomedical informatics work on portable, interoperable clinical data pipelines."
+    },
+    {
+      "topic": "MyChart Patient Data Access",
+      "detail": "Epic's MyChart platform has over 200 million registered patients and supports patient-reported outcome collection and engagement research \u2014 directly relevant to UNC's patient-centered research initiatives."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Epic Systems",
+      "year": 2025,
+      "title": "Epic Cosmos Research Network",
+      "url": "https://www.epic.com/epic/post/cosmos"
+    },
+    {
+      "authors": "Epic Systems",
+      "year": 2025,
+      "title": "App Orchard \u2014 Epic's App Marketplace",
+      "url": "https://apporchard.epic.com/"
+    },
+    {
+      "authors": "Epic Systems",
+      "year": 2025,
+      "title": "Epic FHIR APIs",
+      "url": "https://fhir.epic.com/"
+    },
+    {
+      "authors": "Epic Systems",
+      "year": 2024,
+      "title": "MyChart Patient Portal",
+      "url": "https://www.mychart.com/"
+    }
+  ]
+}

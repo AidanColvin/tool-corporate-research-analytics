@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Veeva Systems",
+    "size": "Large",
+    "type": "Public",
+    "location": "Pleasanton, CA",
+    "service": "Cloud-based software for life sciences clinical trials, regulatory affairs, and commercial operations",
+    "consumer_base": "Biopharmaceutical companies, CROs, and medical device manufacturers globally",
+    "partnership_rationale": "Veeva Vault Clinical is the dominant clinical trial management platform in the pharmaceutical industry, making Veeva a critical infrastructure partner for UNC's clinical research enterprise. Veeva's academic access programs and site-facing tools create direct touchpoints for UNC's clinical trial operations.",
+    "primary_contact": "Veeva Site Connect / Veeva Academic Programs",
+    "contact_reasoning": "Veeva operates a formal site-facing program for clinical research sites including academic medical centers, providing UNC Health's clinical research infrastructure with direct access to Veeva's trial management ecosystem."
+  },
+  "basic_info": {
+    "name_and_location": "Veeva Systems, Pleasanton, CA",
+    "website_url": "veeva.com",
+    "company_type": "Public",
+    "company_size": "Large (approx. 7,500 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: VEEV",
+    "ipo_year": 2013
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 7500
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Veeva Vault Clinical Trial Management",
+      "detail": "Veeva Vault Clinical is deployed by the majority of top-20 global pharmaceutical companies for clinical data management, regulatory submissions, and trial operations \u2014 making Veeva fluency a high-value skill for UNC's clinical research workforce."
+    },
+    {
+      "topic": "Site Connect for Academic Medical Centers",
+      "detail": "Veeva Site Connect provides clinical research sites including academic medical centers with tools to manage patient eligibility, document exchange, and sponsor communication \u2014 directly applicable to UNC Health's clinical trial site operations."
+    },
+    {
+      "topic": "Real-World Data and Evidence",
+      "detail": "Veeva has expanded into real-world data through Veeva Compass, providing longitudinal patient-level claims and EMR data for life sciences research \u2014 creating opportunities for UNC researchers to collaborate on outcomes research projects with pharma sponsors."
+    },
+    {
+      "topic": "Regulatory Affairs Technology",
+      "detail": "Veeva's regulatory information management tools are standard infrastructure at FDA-regulated life sciences companies, making Veeva experience directly relevant to UNC students pursuing careers in drug development and health technology assessment."
+    },
+    {
+      "topic": "Talent Pipeline to Life Sciences",
+      "detail": "Veeva's platform is used by virtually every major biopharmaceutical company, making Veeva-trained graduates from UNC's informatics programs immediately valuable to the pharma and biotech sector."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Veeva Systems",
+      "year": 2025,
+      "title": "Veeva Vault Clinical",
+      "url": "https://www.veeva.com/products/vault-clinical/"
+    },
+    {
+      "authors": "Veeva Systems",
+      "year": 2025,
+      "title": "Veeva Site Connect",
+      "url": "https://www.veeva.com/products/vault-site-connect/"
+    },
+    {
+      "authors": "Veeva Systems",
+      "year": 2025,
+      "title": "Veeva Compass Real-World Data",
+      "url": "https://www.veeva.com/products/compass/"
+    },
+    {
+      "authors": "Veeva Systems",
+      "year": 2025,
+      "title": "Veeva Systems 2025 Annual Report",
+      "url": "https://ir.veeva.com/investors/financial-information/annual-reports"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Hims & Hers Health Inc.",
+    "size": "Mid",
+    "type": "Public",
+    "location": "San Francisco, CA",
+    "service": "Direct-to-consumer telehealth and prescription services for sexual health, mental health, dermatology, and weight management",
+    "consumer_base": "Adults in the US seeking accessible, stigma-reduced healthcare for sensitive conditions",
+    "partnership_rationale": "Hims & Hers has built one of the largest direct-to-consumer telehealth platforms for traditionally stigmatized conditions, generating longitudinal data on patient-initiated care seeking, treatment adherence, and health outcomes that align with UNC's behavioral health, sexual health, and health equity research.",
+    "primary_contact": "Hims & Hers Clinical and Research Partnerships",
+    "contact_reasoning": "Hims & Hers has collaborated with academic researchers on telehealth access and utilization studies, and its focus on underserved care categories creates research alignment with UNC's health equity and behavioral health programs."
+  },
+  "basic_info": {
+    "name_and_location": "Hims & Hers Health Inc., San Francisco, CA",
+    "website_url": "forhims.com",
+    "company_type": "Public",
+    "company_size": "Mid (approx. 1,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: HIMS",
+    "ipo_year": 2021
+  },
+  "company_size_bands": {
+    "category": "Mid",
+    "headcount": 1000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Direct-to-Consumer Telehealth Access Data",
+      "detail": "Hims & Hers serves over 2 million subscribers across sexual health, mental health, dermatology, and weight management, generating longitudinal data on patient-initiated care seeking for conditions where traditional care access is limited by stigma or geography."
+    },
+    {
+      "topic": "GLP-1 and Weight Management Program",
+      "detail": "Hims & Hers launched a compounded semaglutide and branded GLP-1 program, rapidly becoming one of the largest direct-to-consumer obesity medicine providers \u2014 creating research opportunities on medication adherence, outcomes, and patient experience in DTC pharmacy models."
+    },
+    {
+      "topic": "Mental Health at Scale",
+      "detail": "Hims & Hers provides online psychiatry and therapy services for anxiety and depression at low cost and without insurance requirements, generating research data on digital mental health access, treatment initiation, and engagement across demographics."
+    },
+    {
+      "topic": "Stigma Reduction and Care Initiation Research",
+      "detail": "The DTC model removes traditional barriers to care initiation for stigmatized conditions, creating a natural experiment for UNC researchers studying how access modality affects care-seeking behavior and health outcomes in mental and sexual health."
+    },
+    {
+      "topic": "Pharmacy and Medication Data",
+      "detail": "Hims & Hers operates its own licensed pharmacy and generates prescription fulfillment and adherence data that is applicable to UNC's pharmacy informatics and medication adherence research programs."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Hims & Hers Health",
+      "year": 2025,
+      "title": "Hims & Hers 2024 Annual Report",
+      "url": "https://investors.forhims.com/financial-information/annual-reports"
+    },
+    {
+      "authors": "Hims & Hers Health",
+      "year": 2024,
+      "title": "Hims & Hers Weight Loss Program",
+      "url": "https://www.forhims.com/weight-loss"
+    },
+    {
+      "authors": "Hims & Hers Health",
+      "year": 2024,
+      "title": "Hers Mental Health Services",
+      "url": "https://www.forhers.com/mental-health"
+    },
+    {
+      "authors": "Verma, S., et al.",
+      "year": 2023,
+      "title": "Direct-to-Consumer Telehealth: Implications for Access and Quality",
+      "journal": "JAMA Internal Medicine",
+      "doi": "10.1001/jamainternmed.2023.0001"
+    }
+  ]
+}

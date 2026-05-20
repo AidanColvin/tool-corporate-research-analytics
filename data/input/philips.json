@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Philips",
+    "size": "Large",
+    "type": "Public",
+    "location": "Amsterdam, Netherlands",
+    "service": "Medical imaging, patient monitoring, sleep therapy, and connected health informatics platforms",
+    "consumer_base": "Hospitals, ICUs, sleep clinics, and consumers across 100+ countries",
+    "partnership_rationale": "Philips' HealthSuite digital platform, patient monitoring systems, and teleICU technology create research opportunities directly relevant to UNC's critical care informatics, sleep research, and remote patient monitoring programs.",
+    "primary_contact": "Philips Research Academic Collaboration",
+    "contact_reasoning": "Philips Research operates a formal academic collaboration program and has partnered with universities on patient monitoring AI, sleep disorder research, and connected health platform studies."
+  },
+  "basic_info": {
+    "name_and_location": "Philips, Amsterdam, Netherlands",
+    "website_url": "philips.com/healthcare",
+    "company_type": "Public",
+    "company_size": "Large (approx. 67,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: PHG",
+    "ipo_year": 1987
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 67000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Patient Monitoring and ICU Informatics",
+      "detail": "Philips' patient monitoring systems are deployed across UNC Health's ICUs and step-down units, generating continuous physiological data streams that UNC critical care researchers can analyze for early deterioration detection and alarm fatigue reduction."
+    },
+    {
+      "topic": "Sleep and Respiratory Care Research",
+      "detail": "Philips operates one of the world's largest sleep therapy platforms through its DreamStation CPAP systems, connecting millions of sleep apnea patients. UNC's research strengths in sleep medicine and respiratory health create a natural research alignment."
+    },
+    {
+      "topic": "TeleICU and Remote Critical Care",
+      "detail": "Philips' eICU telehealth platform enables remote intensivist oversight of ICU patients, a care model with strong evidence for reducing mortality that UNC Health has studied for implementation across rural North Carolina hospitals."
+    },
+    {
+      "topic": "HealthSuite Digital Platform",
+      "detail": "Philips' HealthSuite is a cloud-based health data platform that aggregates patient monitoring, imaging, and clinical data for analytics and AI model development \u2014 applicable to UNC's clinical informatics research infrastructure."
+    },
+    {
+      "topic": "Medical Imaging AI Integration",
+      "detail": "Philips has embedded AI into its radiology and cardiology imaging systems for automated measurements, anomaly detection, and workflow prioritization \u2014 creating validation research opportunities at UNC's imaging centers."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Philips",
+      "year": 2025,
+      "title": "Philips Patient Monitoring Systems",
+      "url": "https://www.philips.com/healthcare/solutions/patient-monitoring"
+    },
+    {
+      "authors": "Philips",
+      "year": 2025,
+      "title": "Philips eICU Tele-Critical Care",
+      "url": "https://www.philips.com/healthcare/solutions/tele-critical-care"
+    },
+    {
+      "authors": "Philips",
+      "year": 2025,
+      "title": "Philips HealthSuite Platform",
+      "url": "https://www.philips.com/healthcare/innovation/health-suite"
+    },
+    {
+      "authors": "Philips",
+      "year": 2025,
+      "title": "Philips Annual Report 2024",
+      "url": "https://www.philips.com/a-w/about/investor-relations/annual-results.html"
+    }
+  ]
+}

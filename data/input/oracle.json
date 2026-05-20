@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Oracle Corporation",
+    "size": "Large",
+    "type": "Public",
+    "location": "Austin, TX",
+    "service": "Cloud infrastructure, enterprise database systems, and electronic health record platforms",
+    "consumer_base": "Global health systems, government agencies, and enterprise organizations",
+    "partnership_rationale": "Oracle Health (formerly Cerner) is one of the two dominant EHR vendors in the US, and Oracle's cloud infrastructure serves major federal health agencies including the VA and DoD, making it a high-value partner for UNC's clinical informatics and health data interoperability research.",
+    "primary_contact": "Oracle for Research Program",
+    "contact_reasoning": "Oracle operates a formal academic research program providing cloud credits and technical collaboration to universities, with health and life sciences as a stated priority area."
+  },
+  "basic_info": {
+    "name_and_location": "Oracle Corporation, Austin, TX",
+    "website_url": "oracle.com/health",
+    "company_type": "Public",
+    "company_size": "Large (approx. 164,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "NYSE: ORCL",
+    "ipo_year": 1986
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 164000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Oracle Health EHR Platform",
+      "detail": "Oracle Health (Cerner) is deployed across hundreds of US health systems including major academic medical centers and federal health programs (VA, DoD), making interoperability research with Oracle's platform directly relevant to multi-site clinical data studies."
+    },
+    {
+      "topic": "Federal Health Data Infrastructure",
+      "detail": "Oracle holds the contract for the US Department of Veterans Affairs EHR modernization, one of the largest health IT projects in US history, generating research opportunities around large-scale health data migration and interoperability."
+    },
+    {
+      "topic": "Oracle Cloud Infrastructure for Research",
+      "detail": "Oracle for Research provides free cloud credits to academic institutions for high-performance computing, data analytics, and AI workloads \u2014 applicable to UNC's genomics pipelines, clinical AI research, and population health modeling."
+    },
+    {
+      "topic": "FHIR and Interoperability Standards",
+      "detail": "Oracle Health has invested heavily in FHIR R4 compliance and health data interoperability standards, creating alignment with UNC's NC TraCS Institute work on standardized clinical research data exchange."
+    },
+    {
+      "topic": "Clinical Data Repository Scale",
+      "detail": "Oracle Health manages one of the largest clinical data repositories in the world through its Cerner Real-World Data platform, which is accessible to academic researchers for retrospective studies and ML model development."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Oracle",
+      "year": 2025,
+      "title": "Oracle Health \u2014 EHR and Clinical Solutions",
+      "url": "https://www.oracle.com/health/"
+    },
+    {
+      "authors": "Oracle",
+      "year": 2025,
+      "title": "Oracle for Research Program",
+      "url": "https://www.oracle.com/research/"
+    },
+    {
+      "authors": "US Department of Veterans Affairs",
+      "year": 2024,
+      "title": "Electronic Health Record Modernization Program",
+      "url": "https://www.ehrm.va.gov/"
+    },
+    {
+      "authors": "Oracle Health",
+      "year": 2024,
+      "title": "Cerner Real-World Data",
+      "url": "https://www.oracle.com/health/real-world-data/"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "overview": {
+    "company": "Samsung Electronics Co., Ltd.",
+    "size": "Large",
+    "type": "Public",
+    "location": "Suwon, South Korea",
+    "service": "Consumer electronics, semiconductors, medical imaging, and digital health wearables",
+    "consumer_base": "Global consumers and health systems across 200+ countries",
+    "partnership_rationale": "Samsung's Galaxy Watch health monitoring platform, Bio-Processor chip technology, and Samsung Health ecosystem generate consumer-grade physiological data at a scale rivaling Apple Watch \u2014 creating research opportunities in wearable health data science and digital biomarker development that align with UNC's biomedical informatics programs.",
+    "primary_contact": "Samsung Research America Academic Collaboration",
+    "contact_reasoning": "Samsung Research America has an academic collaboration program with US universities in AI, health sensing, and digital health \u2014 with UNC's informatics and health data science programs as a natural fit."
+  },
+  "basic_info": {
+    "name_and_location": "Samsung Electronics Co., Ltd., Suwon, South Korea",
+    "website_url": "samsung.com/us/health",
+    "company_type": "Public",
+    "company_size": "Large (approx. 267,000 employees)"
+  },
+  "company_type": {
+    "ipo": true,
+    "ticker": "KRX: 005930",
+    "ipo_year": 1975
+  },
+  "company_size_bands": {
+    "category": "Large",
+    "headcount": 267000
+  },
+  "unc_connection": {
+    "unc_alum": null,
+    "donation_history": "No confirmed direct donation history to UNC on record. Verify via UNC Office of Development."
+  },
+  "talking_points": [
+    {
+      "topic": "Galaxy Watch Health Monitoring Platform",
+      "detail": "Samsung Galaxy Watch series continuously monitors heart rate, ECG, blood pressure, sleep, and body composition across hundreds of millions of wearers globally, generating a longitudinal consumer health dataset applicable to digital biomarker and population health research."
+    },
+    {
+      "topic": "Samsung Health Research Stack",
+      "detail": "Samsung Health provides a developer SDK and research platform enabling academic researchers to access Galaxy Watch sensor data for IRB-approved studies \u2014 directly applicable to UNC's wearable health informatics research programs."
+    },
+    {
+      "topic": "Bio-Processor and Health Sensing Hardware",
+      "detail": "Samsung's Bio-Processor chip integrates optical, electrical, and IMU sensors in a single health monitoring chip, enabling novel physiological measurement capabilities that academic researchers can access through Samsung's research collaboration program."
+    },
+    {
+      "topic": "Samsung Medical Imaging",
+      "detail": "Samsung's diagnostic ultrasound systems are deployed in clinical settings globally, and Samsung has invested in AI-powered ultrasound for point-of-care imaging \u2014 creating research opportunities in portable diagnostic imaging and AI-assisted ultrasound interpretation."
+    },
+    {
+      "topic": "Digital Biomarker Development",
+      "detail": "Samsung has partnered with pharmaceutical companies and academic institutions on digital biomarker validation studies using Galaxy Watch data, providing a framework for UNC researchers to develop and validate novel wearable-derived clinical endpoints."
+    }
+  ],
+  "references": [
+    {
+      "authors": "Samsung",
+      "year": 2025,
+      "title": "Samsung Health Research Stack",
+      "url": "https://research.samsung.com/health"
+    },
+    {
+      "authors": "Samsung",
+      "year": 2025,
+      "title": "Galaxy Watch Health Features",
+      "url": "https://www.samsung.com/us/smartphones/galaxy-watch/"
+    },
+    {
+      "authors": "Samsung Research America",
+      "year": 2025,
+      "title": "Samsung Research America Academic Collaboration",
+      "url": "https://sra.samsung.com/"
+    },
+    {
+      "authors": "Samsung",
+      "year": 2025,
+      "title": "Samsung Medical Diagnostic Ultrasound",
+      "url": "https://www.samsunghealthcare.com/en/products/ultrasound"
+    }
+  ]
+}
