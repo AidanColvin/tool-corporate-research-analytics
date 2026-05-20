@@ -1,0 +1,40 @@
+{
+  "name":             "Eli Lilly and Company",
+  "location":         "Indianapolis, IN",
+  "url":              "lilly.com",
+  "type":             "Public",
+  "size_class":       "Large",
+  "employee_count":   50000,
+  "actions":          "biopharmaceutical research, drug development, and global manufacturing",
+  "audiences":        "patients with chronic conditions, academic research partners, and healthcare systems",
+  "descriptor":       "multinational pharmaceutical corporation",
+  "alignment_asset":  "heavy investment in AI-driven drug discovery, including its 2026 collaboration with Chai Discovery",
+  "unc_strengths":    "biomedical informatics, clinical trial infrastructure, and health data science",
+  "contact_person":   "Markus Saba",
+  "contact_rationale":"serves as Executive Director of the Center for the Business of Health at UNC after retiring as a senior Eli Lilly executive, bridging deep operational knowledge of Lilly's internal research pipeline with direct academic credibility within UNC's health business ecosystem",
+  "ipo_status":       "Yes (NYSE: LLY) 1952",
+  "unc_alum_details": "Markus Saba (Retired Eli Lilly Senior Executive; currently Executive Director, Center for the Business of Health at UNC-Chapel Hill)",
+  "donation_history": "Lilly maintains an active philanthropic presence in healthcare education. Specific granular donation history to UNC-Chapel Hill is best verified via the UNC Office of Development.",
+  "talking_points": [
+    {
+      "header": "AI Drug Discovery",
+      "body":   "In 2026, Eli Lilly partnered with Chai Discovery to apply generative AI to biologic design, deploying the open-source 'Lilly TuneLab' initiative that trains models on proprietary research data for academic use."
+    },
+    {
+      "header": "Revenue Growth 2024",
+      "body":   "Eli Lilly reported full-year 2024 revenue of approximately $45.0 billion, representing a 32% increase over 2023, driven primarily by tirzepatide (Mounjaro and Zepbound) sales exceeding $10 billion."
+    },
+    {
+      "header": "Clinical Trial Scale",
+      "body":   "Eli Lilly runs more than 200 active clinical trials globally as of 2025, enrolling tens of thousands of patients across oncology, metabolic disease, and neurodegeneration programs."
+    },
+    {
+      "header": "R&D Investment 2024",
+      "body":   "The company invested approximately $9.3 billion in research and development in 2024, representing roughly 21% of total revenue and one of the highest R&D ratios in the sector."
+    },
+    {
+      "header": "Patent Pipeline Strength",
+      "body":   "Lilly holds more than 1,000 active patents across its therapeutic portfolio as of 2025, with GLP-1 receptor agonist compounds representing 14 of the 28 compounds in late-stage development."
+    }
+  ]
+}

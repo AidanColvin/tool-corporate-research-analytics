@@ -1,0 +1,36 @@
+{
+  "name":             "Pfizer Inc.",
+  "location":         "New York, NY",
+  "url":              "pfizer.com",
+  "type":             "Public",
+  "size_class":       "Large",
+  "employee_count":   88000,
+  "actions":          "pharmaceutical research, vaccine development, and biologic manufacturing",
+  "audiences":        "global patients, public health agencies, and clinical research institutions",
+  "descriptor":       "multinational pharmaceutical and biotechnology corporation",
+  "alignment_asset":  "extensive mRNA platform technology developed during COVID-19 vaccine programs and now applied to oncology and rare disease pipelines",
+  "unc_strengths":    "infectious disease research, mRNA technology translation, and population health data science",
+  "contact_person":   "None identified in current executive leadership",
+  "contact_rationale":"no verified UNC alum currently holds a decision-making role; outreach recommended via UNC Lineberger Comprehensive Cancer Center collaborative research office",
+  "ipo_status":       "Yes (NYSE: PFE) 1944",
+  "unc_alum_details": "None identified in current executive leadership",
+  "donation_history": "Pfizer Foundation has donated to public health initiatives globally. Specific UNC-directed grants should be verified via the UNC Office of Research.",
+  "talking_points": [
+    {
+      "header": "mRNA Platform Expansion",
+      "body":   "Pfizer's mRNA pipeline beyond COVID-19 includes 31 active programs as of 2025, targeting influenza, RSV, and 9 oncology indications."
+    },
+    {
+      "header": "R&D Spend 2024",
+      "body":   "Pfizer reported $10.7 billion in R&D expenditure in 2024, focused on oncology (40% of pipeline), vaccines (28%), and rare disease (18%)."
+    },
+    {
+      "header": "Oncology Acquisitions",
+      "body":   "The $43 billion acquisition of Seagen in 2023 added 4 approved ADC therapies and a pipeline of 14 oncology compounds to Pfizer's portfolio."
+    },
+    {
+      "header": "Manufacturing Network",
+      "body":   "Pfizer operates 37 manufacturing sites across 17 countries, producing over 4 billion doses of medicines and vaccines annually as of 2024."
+    }
+  ]
+}

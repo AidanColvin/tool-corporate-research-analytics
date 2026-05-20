@@ -1,0 +1,14 @@
+tests/
+Makefile
+.env
+.env.example
+.gitignore
+.coverage
+htmlcov/
+.pytest_cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+output/
+README.md

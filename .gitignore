@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables — NEVER commit
+.env
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Generated output profiles
+output/*.md
+output/*.json
+
+# macOS / editors
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
